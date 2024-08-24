@@ -37,4 +37,9 @@ img {
 }
 
 input{
+  outline: none;
+}
+
+fieldset{
+  margin: 0;
 }
